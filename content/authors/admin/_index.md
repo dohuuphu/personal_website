@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Deep learning
-  - Generative AI: 2D/3D
+  - Generative AI 2D/3D
   - Physic-World modeling
 
 education:
