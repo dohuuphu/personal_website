@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Do Huu Phu
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'dohuuphu25@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep learning
+  - Generative AI: 2D/3D
+  - Physic-World modeling
 
 education:
   - area: PhD Artificial Intelligence
