@@ -1,0 +1,10 @@
+<p>
+  <a href="{{ .RelPermalink }}">
+    <strong>{{ .Title }}</strong>
+  </a><br />
+  {{ .Authors }} ({{ .Date.Format "2006" }}). 
+  {{ with .Publication }}<em>{{ . }}</em>{{ end }}.
+</p>
+
+<!-- Links -->
+{{ partial "functions/links.html" . }}
